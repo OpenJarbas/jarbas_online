@@ -32,3 +32,4 @@ microservices running [ovos-tts-server](https://github.com/OpenVoiceOS/ovos-tts-
 | proxitok - tiktok alternative frontend | https://proxitok.jarbasai.online | https://github.com/pablouser1/ProxiTok |
 | bibliogram - instagram alternative frontend | https://bibliogram.jarbasai.online | https://github.com/Booteille/bibliogram |
 | wikiless - wikipedia alternative frontend | https://wikiless.jarbasai.online | https://codeberg.org/orenom/Wikiless |
+| lingva - google translate alternative frontend | https://lingva.jarbasai.online | https://github.com/TheDavidDelta/lingva-translate |
