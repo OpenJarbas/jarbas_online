@@ -1,5 +1,5 @@
 # jarbas_online
-self hosted microservices for demo purposes and personal usage, might get taken down any time but feel free to usem them while they last
+self hosted microservices for demo purposes and personal usage, might get taken down any time but feel free to use them while they last
 
 ## OVOS STT Plugins
 
@@ -24,13 +24,28 @@ microservices running [ovos-tts-server](https://github.com/OpenVoiceOS/ovos-tts-
 | espeak-ng  | all | https://espeak.jarbasai.online | [github](https://github.com/OpenVoiceOS/ovos-tts-plugin-espeakng) | [ghcr.io/openvoiceos/espeakng](https://github.com/orgs/OpenVoiceOS/packages/container/package/espeakng) |
 
 
+## Microservices
+
+other services that don't fit any existing category
+
+| description | url | source |
+|---|---|---|
+| OVOS local backend - selene alternative | https://home.jarbasai.online | https://github.com/OpenVoiceOS/OVOS-local-backend |
+| Snowboy wake word trainer | https://snowboy.jarbasai.online | https://github.com/seasalt-ai/snowboy |
+
+
 ## Frontends
+
+These are alternative frontends to access existing platforms
+Using these will protect you from browser fingerprinting, cookies etc. but your IP address may still leak
 
 | description | url | source |
 |---|---|---|
 | invidious - youtube alternative frontend | https://invidious.jarbasai.online | https://github.com/iv-org/invidious |
 | teddit - reddit alternative frontend | https://teddit.jarbasai.online | https://github.com/teddit-net/teddit |
+| libreddit - reddit alternative frontend | https://libreddit.jarbasai.online | https://github.com/spikecodes/libreddit |
 | proxitok - tiktok alternative frontend | https://proxitok.jarbasai.online | https://github.com/pablouser1/ProxiTok |
 | bibliogram - instagram alternative frontend | https://bibliogram.jarbasai.online | https://github.com/Booteille/bibliogram |
 | wikiless - wikipedia alternative frontend | https://wikiless.jarbasai.online | https://codeberg.org/orenom/Wikiless |
-| lingva - google translate alternative frontend | https://lingva.jarbasai.online | https://github.com/TheDavidDelta/lingva-translate |
+| minimalpedia - wikipedia alternative react frontend | https://minimalpedia.jarbasai.online | https://github.com/vantezzen/minimalpedia |
+| simply translate - google translate alternative frontend | https://translate.jarbasai.online | https://codeberg.org/SimpleWeb/SimplyTranslate-Web |
