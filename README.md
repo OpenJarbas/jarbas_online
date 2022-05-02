@@ -42,6 +42,7 @@ Using these will protect you from browser fingerprinting, cookies etc. but your 
 | description | url | source |
 |---|---|---|
 | invidious - youtube alternative frontend | https://invidious.jarbasai.online | https://github.com/iv-org/invidious |
+| nitter - twitter alternative frontend | https://nitter.jarbasai.online | https://github.com/zedeus/nitter |
 | teddit - reddit alternative frontend | https://teddit.jarbasai.online | https://github.com/teddit-net/teddit |
 | libreddit - reddit alternative frontend | https://libreddit.jarbasai.online | https://github.com/spikecodes/libreddit |
 | proxitok - tiktok alternative frontend | https://proxitok.jarbasai.online | https://github.com/pablouser1/ProxiTok |
