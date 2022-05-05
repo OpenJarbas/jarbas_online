@@ -32,6 +32,7 @@ other services that don't fit any existing category
 |---|---|---|
 | OVOS local backend - selene alternative | https://home.jarbasai.online | https://github.com/OpenVoiceOS/OVOS-local-backend |
 | Snowboy wake word trainer | https://snowboy.jarbasai.online | https://github.com/seasalt-ai/snowboy |
+| Larynx TTS | https://larynx.jarbasai.online | https://github.com/rhasspy/larynx |
 
 
 ## Frontends
@@ -47,6 +48,7 @@ Using these will protect you from browser fingerprinting, cookies etc. but your 
 | libreddit - reddit alternative frontend | https://libreddit.jarbasai.online | https://github.com/spikecodes/libreddit |
 | proxitok - tiktok alternative frontend | https://proxitok.jarbasai.online | https://github.com/pablouser1/ProxiTok |
 | bibliogram - instagram alternative frontend | https://bibliogram.jarbasai.online | https://github.com/Booteille/bibliogram |
+| whoogle - google search alternative frontend | https://whoogle.jarbasai.online | https://github.com/benbusby/whoogle-search |
 | wikiless - wikipedia alternative frontend | https://wikiless.jarbasai.online | https://codeberg.org/orenom/Wikiless |
 | minimalpedia - wikipedia alternative react frontend | https://minimalpedia.jarbasai.online | https://github.com/vantezzen/minimalpedia |
 | simply translate - google translate alternative frontend | https://translate.jarbasai.online | https://codeberg.org/SimpleWeb/SimplyTranslate-Web |
