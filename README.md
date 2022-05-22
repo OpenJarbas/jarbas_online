@@ -22,6 +22,7 @@ microservices running [ovos-tts-server](https://github.com/OpenVoiceOS/ovos-tts-
 | pico  | en, de, es, fr, it | https://pico.jarbasai.online | [github](https://github.com/OpenVoiceOS/ovos-tts-plugin-pico) | [ghcr.io/openvoiceos/pico](https://github.com/orgs/OpenVoiceOS/packages/container/package/pico) |
 | S.A.M.  | en | https://sam.jarbasai.online | [github](https://github.com/OpenVoiceOS/ovos-tts-plugin-sam) | [ghcr.io/openvoiceos/sam](https://github.com/orgs/OpenVoiceOS/packages/container/package/sam) |
 | espeak-ng  | all | https://espeak.jarbasai.online | [github](https://github.com/OpenVoiceOS/ovos-tts-plugin-espeakng) | [ghcr.io/openvoiceos/espeakng](https://github.com/orgs/OpenVoiceOS/packages/container/package/espeakng) |
+| BeepSpeak  | all | https://r2d2.jarbasai.online | [github](https://github.com/OpenVoiceOS/ovos-tts-plugin-beepspeak) | [ghcr.io/openvoiceos/beepspeak-tts-server](https://github.com/orgs/OpenVoiceOS/packages/container/package/beepspeak-tts-server) |
 
 
 ## Microservices
