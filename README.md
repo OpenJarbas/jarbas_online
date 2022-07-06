@@ -50,8 +50,6 @@ Using these will protect you from browser fingerprinting, cookies etc. but your 
 | teddit - reddit alternative frontend | https://teddit.jarbasai.online | https://github.com/teddit-net/teddit |
 | libreddit - reddit alternative frontend | https://libreddit.jarbasai.online | https://github.com/spikecodes/libreddit |
 | proxitok - tiktok alternative frontend | https://proxitok.jarbasai.online | https://github.com/pablouser1/ProxiTok |
-| bibliogram - instagram alternative frontend | https://bibliogram.jarbasai.online | https://github.com/Booteille/bibliogram |
-| whoogle - google search alternative frontend | https://whoogle.jarbasai.online | https://github.com/benbusby/whoogle-search |
 | wikiless - wikipedia alternative frontend | https://wikiless.jarbasai.online | https://codeberg.org/orenom/Wikiless |
 | minimalpedia - wikipedia alternative react frontend | https://minimalpedia.jarbasai.online | https://github.com/vantezzen/minimalpedia |
 | simply translate - google translate alternative frontend | https://translate.jarbasai.online | https://codeberg.org/SimpleWeb/SimplyTranslate-Web |
