@@ -34,6 +34,8 @@ other services that don't fit any existing category
 | OVOS local backend - selene alternative | https://home.jarbasai.online | https://github.com/OpenVoiceOS/OVOS-local-backend |
 | Snowboy wake word trainer | https://snowboy.jarbasai.online | https://github.com/seasalt-ai/snowboy |
 | Larynx TTS | https://larynx.jarbasai.online | https://github.com/rhasspy/larynx |
+| Mimic3 TTS | https://mimic3.jarbasai.online | https://github.com/MycroftAI/mimic3 |
+
 
 
 ## Frontends
